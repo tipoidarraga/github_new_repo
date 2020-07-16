@@ -1,1 +1,0 @@
-(Spoiler: este archivo ha sido editado) Hola, estoy creando mi primer archivo en Git

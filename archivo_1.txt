@@ -1,0 +1,5 @@
+(Spoiler: este archivo ha sido editado) Hola, estoy creando mi primer archivo en Git
+
+----
+
+Nueva versión de comentarios el 15 de julio probando integraciones de git local con remoto
